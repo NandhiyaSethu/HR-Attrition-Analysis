@@ -174,7 +174,7 @@ Contains:
 
 ## About Me
 
-Transitioning from 5 years of Application Support (Aria project) to Data Analytics. This project demonstrates data preparation, pivot table analysis, and dashboard storytelling skills.
+This project demonstrates data preparation, pivot table analysis, and dashboard storytelling skills.
 
 - LinkedIn: [your LinkedIn URL]
 - GitHub Portfolio: [your GitHub URL]
@@ -182,5 +182,3 @@ Transitioning from 5 years of Application Support (Aria project) to Data Analyti
 - Email: nandhiyadevi2000@gmail.com
 
 ---
-
-*Project completed as part of a data analyst portfolio — May 2026*
