@@ -100,7 +100,7 @@ The Tableau Public dashboard contains:
 | Bar Chart — Overtime | How overtime multiplies attrition risk |
 
 🔗 **[View Live Dashboard →](https://public.tableau.com/app/profile/nandhiya.s/viz/HRAttrition_17774538480190/Dashboard2)**
-<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/f200cf0a-5859-4357-9298-065201045de5" />
+
 
 ---
 
